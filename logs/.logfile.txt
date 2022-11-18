@@ -1,0 +1,93 @@
+:::: Log File ::::
+[18/11/2022 -- 12:23]  Info task started
+[18/11/2022 -- 12:23]  Mustache Templates ran on the HTML files
+[18/11/2022 -- 12:23]  Scripts ran on main.js
+[18/11/2022 -- 12:23]  Sass ran on files
+[18/11/2022 -- 12:43]  restarted!
+[18/11/2022 -- 12:43]  restarted!
+[18/11/2022 -- 12:47]  Scripts ran on main.js
+[18/11/2022 -- 12:49]  Scripts ran on main.js
+[18/11/2022 -- 12:50]  Scripts ran on main.js
+[18/11/2022 -- 12:50]  Scripts ran on main.js
+[18/11/2022 -- 12:51]  Scripts ran on main.js
+[18/11/2022 -- 12:52]  Scripts ran on main.js
+[18/11/2022 -- 12:52]  Scripts ran on main.js
+[18/11/2022 -- 12:52]  Scripts ran on main.js
+[18/11/2022 -- 12:53]  Scripts ran on main.js
+[18/11/2022 -- 12:53]  Scripts ran on main.js
+[18/11/2022 -- 12:53]  Scripts ran on main.js
+[18/11/2022 -- 12:53]  Scripts ran on main.js
+[18/11/2022 -- 12:54]  Scripts ran on main.js
+[18/11/2022 -- 13:2]  Scripts ran on main.js
+[18/11/2022 -- 13:2]  Scripts ran on main.js
+[18/11/2022 -- 13:3]  Scripts ran on main.js
+[18/11/2022 -- 13:3]  Scripts ran on main.js
+[18/11/2022 -- 13:3]  Scripts ran on main.js
+[18/11/2022 -- 13:4]  Scripts ran on main.js
+[18/11/2022 -- 13:5]  Scripts ran on main.js
+[18/11/2022 -- 13:5]  Scripts ran on main.js
+[18/11/2022 -- 13:7]  Scripts ran on main.js
+[18/11/2022 -- 13:8]  Scripts ran on main.js
+[18/11/2022 -- 13:9]  restarted!
+[18/11/2022 -- 13:10]  Info task started
+[18/11/2022 -- 13:10]  Mustache Templates ran on the HTML files
+[18/11/2022 -- 13:10]  Scripts ran on main.js
+[18/11/2022 -- 13:10]  Sass ran on files
+[18/11/2022 -- 13:11]  restarted!
+[18/11/2022 -- 14:21]  Scripts ran on main.js
+[18/11/2022 -- 14:25]  restarted!
+[18/11/2022 -- 14:29]  Scripts ran on main.js
+[18/11/2022 -- 14:29]  Scripts ran on main.js
+[18/11/2022 -- 14:32]  Scripts ran on main.js
+[18/11/2022 -- 14:33]  Scripts ran on main.js
+[18/11/2022 -- 14:35]  Scripts ran on main.js
+[18/11/2022 -- 14:35]  Scripts ran on main.js
+[18/11/2022 -- 14:35]  restarted!
+[18/11/2022 -- 14:49]  Scripts ran on main.js
+[18/11/2022 -- 14:53]  Scripts ran on main.js
+[18/11/2022 -- 14:54]  Scripts ran on main.js
+[18/11/2022 -- 14:55]  Scripts ran on main.js
+[18/11/2022 -- 15:4]  Scripts ran on main.js
+[18/11/2022 -- 15:5]  Scripts ran on main.js
+[18/11/2022 -- 15:7]  Scripts ran on main.js
+[18/11/2022 -- 15:7]  Scripts ran on main.js
+[18/11/2022 -- 15:9]  Scripts ran on main.js
+[18/11/2022 -- 15:9]  Scripts ran on main.js
+[18/11/2022 -- 15:11]  Sass ran on files
+[18/11/2022 -- 15:11]  Sass ran on files
+[18/11/2022 -- 15:15]  Sass ran on files
+[18/11/2022 -- 15:16]  Scripts ran on main.js
+[18/11/2022 -- 15:16]  Sass ran on files
+[18/11/2022 -- 15:17]  Sass ran on files
+[18/11/2022 -- 15:19]  Sass ran on files
+[18/11/2022 -- 15:19]  Sass ran on files
+[18/11/2022 -- 15:21]  Sass ran on files
+[18/11/2022 -- 15:22]  Sass ran on files
+[18/11/2022 -- 15:23]  Sass ran on files
+[18/11/2022 -- 15:23]  Sass ran on files
+[18/11/2022 -- 15:23]  Sass ran on files
+[18/11/2022 -- 15:28]  Sass ran on files
+[18/11/2022 -- 15:29]  Sass ran on files
+[18/11/2022 -- 15:29]  Sass ran on files
+[18/11/2022 -- 15:29]  Sass ran on files
+[18/11/2022 -- 15:30]  Sass ran on files
+[18/11/2022 -- 15:30]  Sass ran on files
+[18/11/2022 -- 15:30]  Sass ran on files
+[18/11/2022 -- 15:31]  Scripts ran on main.js
+[18/11/2022 -- 15:31]  Sass ran on files
+[18/11/2022 -- 15:32]  Sass ran on files
+[18/11/2022 -- 15:32]  Sass ran on files
+[18/11/2022 -- 15:33]  Sass ran on files
+[18/11/2022 -- 15:34]  Sass ran on files
+[18/11/2022 -- 15:36]  Sass ran on files
+[18/11/2022 -- 15:37]  Sass ran on files
+[18/11/2022 -- 15:39]  Sass ran on files
+[18/11/2022 -- 15:40]  Sass ran on files
+[18/11/2022 -- 15:42]  Sass ran on files
+[18/11/2022 -- 15:42]  Sass ran on files
+[18/11/2022 -- 15:42]  Sass ran on files
+[18/11/2022 -- 15:44]  Sass ran on files
+[18/11/2022 -- 15:45]  Sass ran on files
+[18/11/2022 -- 15:45]  Sass ran on files
+[18/11/2022 -- 15:46]  Scripts ran on main.js
+[18/11/2022 -- 15:46]  restarted!
